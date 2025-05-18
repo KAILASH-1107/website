@@ -534,7 +534,12 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![alt text](<Screenshot 2025-05-06 093451.png>)
+
+
 ![alt text](<Screenshot 2025-05-06 093527.png>)
+
+
+
 ![alt text](<Screenshot 2025-05-06 093544.png>)
 
 ## RESULT:
